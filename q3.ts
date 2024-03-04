@@ -1,0 +1,1 @@
+console.log('Nelson Mandela once said , "Education is the most powerful weapon which e can use to change the world".');
